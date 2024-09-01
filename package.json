@@ -1,7 +1,7 @@
 {
-  "name": "quiz-system-project-farhana.y",
-  "version": "1.0.0",
-  "description": "students multiple choice questions and promt the user to reply. In the end it will show the students the result of the quiz.\",",
+  "name": "quiz-system-project8-farhana",
+  "version": "1.1.0",
+  "description": "students multiple choice questions and promt the user to reply. In the end it will show the students the result of the quiz",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
